@@ -8,7 +8,6 @@
 - 💬 Ask me about **Python, Java, Machine Learning.**
 
 - 📫 How to reach me **bvkrishnakaturi7844@gmail.com**
-- <a href="https://www.linkedin.com/in/bhanu-katuri-45237b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhanu-katuri-45237b218/" height="30" width="40" /></a>
 
 <h3 align="left">CODING PROFILES:</h3>
 <p align="left">
