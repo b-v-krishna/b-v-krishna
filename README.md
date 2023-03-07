@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Java, Machine Learning.**
 
-- 📫 How to reach me 
+- 📫 How to reach me 👇
 - **bvkrishnakaturi7844@gmail.com**
 - <a href="https://www.linkedin.com/in/bhanu-katuri/" target="blank">Linkedin</a>
 
