@@ -11,7 +11,7 @@
 - **bvkrishnakaturi7844@gmail.com**
 - <a href="https://www.linkedin.com/in/bhanu-katuri/" target="blank">Linkedin</a>
 
-<h3 align="left">CODING PROFILES:</h3>
+<h3 align="left"> CODING PROFILES: </h3>
 <p align="left">
 <a href="https://www.kaggle.com/katuribhanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/katuribhanu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bvkrishnakaturi1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/bvkrishnakaturi1?hr_r=1" height="30" width="40" /></a>
