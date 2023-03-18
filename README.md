@@ -24,7 +24,7 @@
 
 <div>
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=b-v-krishna&show_icons=true&locale=en&layout=compact" alt="b-v-krishna" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=b-v-krishna&" alt="b-v-krishna" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=b-v-krishna&" alt="b-v-krishna" />
 </div>
 <p>&nbsp;</p>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=b-v-krishna&show_icons=true&locale=en" alt="b-v-krishna" /></p>
