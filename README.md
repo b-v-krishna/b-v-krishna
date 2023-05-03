@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu</h1>
-<h3 align="center">I'm a Computer Science Engineering student currently pursuing my degree. I have a strong passion for competitive programming and have experience in Python,Java,Html,Css,MySql. I'm particularly interested in data science field.</h3>
+<h3 align="center">I'm a Computer Science Engineering Student. I have a strong passion for competitive programming and have experience in Python,Java,Html,Css,MySql. I'm particularly interested in data science field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-v-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="b-v-krishna" /> </p>
 
