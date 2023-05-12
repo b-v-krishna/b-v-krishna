@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-v-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="b-v-krishna" /> </p>
 
-- 🌱 I completed Data Science Internship at INNOMATICS RESEARCH LABS**
+- 🌱 I completed Data Science Internship at **INNOMATICS RESEARCH LABS**
 - 💬 Ask me about **Python, Java**
 - 📫 How to reach me 👇
 - **bvkrishnakaturi7844@gmail.com**
