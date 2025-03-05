@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-v-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="b-v-krishna" /> </p>
 
-- 🌱 Working as a **DevOps Engineer** at **Carelon Global Solutions**, with experience in cloud platforms, containerization, and automation tools.  
+- 🌱 Currently working as a DevOps Engineer at Carelon Global Solutions, specializing in cloud platforms, automation, and containerization. 
 - 🚀 Experienced in **CI/CD, Kubernetes, Docker, Terraform, AWS, and Jenkins.**  
 - 💬 Ask me about **DevOps practices, cloud computing, and automation.**  
 - 📫 How to reach me 👇  
